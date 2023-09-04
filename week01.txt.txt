@@ -1,2 +1,3 @@
 week01 
-- orientation, vcs
+- orientation
+- vcs, git, git hub
